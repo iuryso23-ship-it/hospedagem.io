@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Espaçamento</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body background-image: linear-gradient(to left, rgb(117, 136, 158), rgb(232, 255, 232))>
+
+    <h1>Algum título</h1>
+    <p>Um texto dissertativo é um tipo de redação que tem como objetivo
+         expor ou discutir ideias sobre um determinado tema, utilizando-se
+          de argumentos, evidências 
+        e análise para construir um raciocínio claro e organizado.</p>
+
+    <h2>Outro título</h2>
+    <p class="esquerdo"> Ele pode ser dissertativo-expositivo, 
+        quando apenas apresenta informações sobre o assunto, ou
+         dissertativo-argumentativo, quando defende uma tese
+          (um ponto de vista) e busca persuadir
+         o leitor com argumentos convincentes. </p>
+
+    <hr>
+
+    <h3>Tabela Aleatória</h3>
+    <table>
+        <tr>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+        </tr>
+        <tr>
+            <td>opa</td>
+            <td>ope</td>
+            <td>opu</td>
+        </tr>
+    </table>
+
+    
+</body>
+</html>
